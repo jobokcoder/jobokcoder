@@ -1,3 +1,7 @@
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jobokcoder)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <p>
   <img src="https://img.shields.io/badge/zjaqld@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
   <img src="https://img.shields.io/badge/jyh990321@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
