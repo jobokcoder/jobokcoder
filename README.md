@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React%20Router&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express-3766AB?style=flat-square&logo=Express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-3766AB?style=flat-square&logo=Express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </p>
 
