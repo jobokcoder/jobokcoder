@@ -1,5 +1,6 @@
 <h1>👋 Greetings !</h1>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### 📚 Technology Stack 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -16,7 +17,6 @@
   <img src="https://img.shields.io/badge/Express.js-3766AB?style=flat-square&logo=Express&logoColor=white"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📟 Contract 
 <p>
